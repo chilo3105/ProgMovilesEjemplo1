@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Ejemplo1</string>
+    <string name="app_name">Ejemplo 1</string>
+    <string name="button1">Botón 1</string>
+    <string name="button2">Botón 2</string>
+    <string name="button3">Botón 3</string>
+    <string name="button4">Botón 4</string>
+    <string name="button5">Botón 5</string>
+    <string name="button6">Botón 6</string>
+    <string name="button7">Botón 7</string>
 </resources>
